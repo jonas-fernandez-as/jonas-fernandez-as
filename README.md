@@ -1,8 +1,6 @@
 # Jonas Fernandez - Junior Pentester 🔍💻
 
 **Location:** España  
-**Email:** [jonas.ezequiel.fernandez.munoz@gmail.com](mailto:jonas.ezequiel.fernandez.munoz@gmail.com)
-
 ---
 
 ## About Me
