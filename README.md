@@ -1,6 +1,6 @@
 # Jonas Fernandez - Junior Pentester 🔍💻
 
-**Location:** España  
+**Location:** Spain 
 
 ---
 
