@@ -79,8 +79,8 @@ I'm a **Pentester** with hands-on training on Hack The Box and solid fundamental
 
 - 📺 **YouTube:** [JonaStrikeX](https://www.youtube.com/@JonaStrikeX)  
 - 🔗 **LinkedIn:** [Jonas Fernandez](https://www.linkedin.com/in/jonás-fernández-as)  
-- 🛠 **GitHub:** [Pentesting Projects](https://github.com/jonas-fernandez-as/Pentesting/tree/main)
--  🔗 **Portfolio:** [Jonas Fernandez]([https://www.linkedin.com/in/jonás-fernández-as](https://jonas-fernandez-as.github.io/))  
+- 🛠 **GitHub:** [Pentesting Projects](https://jonas-fernandez-as.github.io/projects.html)
+-  🔗 **Portfolio:** [My work](https://jonas-fernandez-as.github.io/)  
 
 ---
 
