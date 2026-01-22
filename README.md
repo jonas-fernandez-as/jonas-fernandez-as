@@ -1,4 +1,4 @@
-# Jonas Fernandez - Junior Pentester 🔍💻
+# Jonas Fernandez - Pentester 🔍💻
 
 **Location:** Spain 
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Junior Pentester** with hands-on training on Hack The Box and solid fundamentals in networking (Cisco). I focus on uncovering critical vulnerabilities and providing clear, actionable solutions. Passionate about continuous learning, I also create technical content on YouTube—showcasing real-world machine challenges on HTB—and author professional vulnerability reports. I collaborate with fellow security professionals to build a safer digital world.
+I'm a **Pentester** with hands-on training on Hack The Box and solid fundamentals in networking (Cisco). I focus on uncovering critical vulnerabilities and providing clear, actionable solutions. Passionate about continuous learning, I also create technical content on YouTube—showcasing real-world machine challenges on HTB—and author professional vulnerability reports. I collaborate with fellow security professionals to build a safer digital world.
 
 ---
 
@@ -51,7 +51,7 @@ I'm a **Junior Pentester** with hands-on training on Hack The Box and solid fund
 ## Assets & Achievements
 
 - **Technical Report Author:**  
-  Authored more than 30 professional penetration testing reports on real-world machines, collaborating with over 10 industry professionals.
+  Authored more than 70 professional penetration testing reports on real-world machines, collaborating with over 10 industry professionals.
 - **Advanced Pentesting Experience:**  
   Successfully completed numerous challenging engagements and live simulations, continually refining methodology and enhancing report clarity.
 
