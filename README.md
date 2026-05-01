@@ -58,8 +58,8 @@ I'm a **Pentester** with hands-on training on Hack The Box and solid fundamental
 ---
 ## CERTIFICATIONS
 
+- **OSCP+** | Offensive Security | OffSec Certified Professional+ | 2026
 - **eJPT v2** | eLearnSecurity | Issued: 2025
-- **PEN-200 (OSCP)** | Offensive Security | Candidate (**Course in progress**, expected 2026)
 - **Cisco Networking Essentials** | Cisco Networking Academy | 2023
 
 ---
