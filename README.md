@@ -1,4 +1,4 @@
-# Jonas Fernandez - Pentester 🔍💻
+# Jonas Fernandez | Cybersecurity Associate | OSCP+
 
 **Location:** Spain 
 
