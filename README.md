@@ -1,88 +1,30 @@
-# Jonas Fernandez | Cybersecurity Associate | OSCP+
+## Hi, I'm Jonas Fernandez 👋
 
-**Location:** Spain 
+**Cybersecurity Associate | OSCP+ | eJPTv2**
 
----
+I simulate real-world attacks to help organizations strengthen their defenses. With 70+ full-cycle penetration testing reports and hands-on experience across Active Directory, web apps, and privilege escalation, I bring an attacker’s perspective to security operations.
 
-## About Me
+### What I do
+- 🔴 **Red Team:** Adversary emulation, vulnerability assessment, exploit development.
+- 🔵 **Blue Team mindset:** Map attacks to MITRE ATT&CK, identify detection gaps, propose monitoring rules.
+- 📄 **Professional reporting:** Executive summaries, CVSS scoring, actionable remediation.
+- 🎥 **Content creation:** Educational security videos on [YouTube](https://youtube.com/@JonaStrikeX).
 
-I'm a **Pentester** with hands-on training on Hack The Box and solid fundamentals in networking (Cisco). I focus on uncovering critical vulnerabilities and providing clear, actionable solutions. Passionate about continuous learning, I also create technical content on YouTube—showcasing real-world machine challenges on HTB—and author professional vulnerability reports. I collaborate with fellow security professionals to build a safer digital world.
+### Certifications
+- **OSCP+** – Offensive Security
+- **eJPTv2** – INE / eLearnSecurity
+- **Network Technician** – Cisco Networking Academy
 
----
+### Portfolio & CV
+- 🌐 [Portfolio](https://jonas-fernandez-as.github.io)
+- 📄 [Curriculum](https://jonas-fernandez-as.github.io/cv/Jonas-Fernandez-Curriculum.pdf)
 
-## Technical Skills
-
-- **Networking** 🌐  
-- **Web Pentesting** 🕸️  
-- **Active Directory** 📁  
-- **Scripting (Python)** 🐍  
-- **Privilege Escalation (Windows/Linux)** 🔑  
-- **Agile Learning & Adaptability** 🚀
-
----
-
-## Practical Experience
-
-**Technical Content Creator – YouTube (Independent Project)**  
-*2025 - Present*  
-- Developing and recording in-depth walkthroughs of Hack The Box machines.  
-- Delivering professional analyses and writeups that detail the methodology and findings from real-world scenarios.
+### Open to
+- Red Team / Pentesting roles
+- SOC / Blue Team positions
+- Cybersecurity Associate opportunities across the EU
 
 ---
 
-## Education
-
-- **Hack The Box Penetration Tester**  
-  *Hack The Box Academy, 2025*
-- **Cisco Networking Essentials**  
-  *Cisco Networking Academy, 2023*
-
----
-
-## What I Offer
-
-- **Agile Learning** 📚  
-- **Clear, Actionable Communication** 🗣️  
-- **Practical, Hands-on Approach** 🛠️  
-- **Teamwork & Multilingual Communication** 🌍
-
----
-
-## Assets & Achievements
-
-- **Technical Report Author:**  
-  Authored more than 70 professional penetration testing reports on real-world machines, collaborating with over 10 industry professionals.
-- **Advanced Pentesting Experience:**  
-  Successfully completed numerous challenging engagements and live simulations, continually refining methodology and enhancing report clarity.
-
----
-## CERTIFICATIONS
-
-- **OSCP+** | Offensive Security | OffSec Certified Professional+ | 2026
-- **eJPT v2** | eLearnSecurity | Issued: 2025
-- **Cisco Networking Essentials** | Cisco Networking Academy | 2023
-
----
-
-## Featured Projects
-
-- **YouTube Channel:**  
-  I produce in-depth walkthroughs, showcasing professional methodologies and insights. Check it out at [JonaStrikeX](https://www.youtube.com/@JonaStrikeX).
-- **Technical Writeups:**  
-  I’ve published over 70 professional vulnerability reports covering real-world pentesting engagements.
-- **GitHub Repos:**  
-  Explore my work at [Pentesting Projects](https://jonas-fernandez-as.github.io/projects.html).
-
----
-
-## Let's Connect
-
-- 📺 **YouTube:** [JonaStrikeX](https://www.youtube.com/@JonaStrikeX)  
-- 🔗 **LinkedIn:** [Jonas Fernandez](https://www.linkedin.com/in/jonás-fernández-as)  
-- 🛠 **GitHub:** [Pentesting Projects](https://jonas-fernandez-as.github.io/projects.html)
--  🔗 **Portfolio:** [My work](https://jonas-fernandez-as.github.io/)  
-
----
-
-*Feel free to explore my projects, read my writeups, and connect if you'd like to collaborate or learn more about pentesting and OSINT!*
+*Let's connect on [LinkedIn](https://linkedin.com/in/jonás-fernández-as)*
 
