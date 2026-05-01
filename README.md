@@ -1,4 +1,4 @@
-## Hi, I'm Jonas Fernandez 👋
+## Hi, I'm Jonas Fernandez 
 
 **Cybersecurity Associate | OSCP+ | eJPTv2**
 
