@@ -1,25 +1,3 @@
-<div align="center">
-
-```
-jonas@portfolio:~$ cat profile.json
-{
-  "name"            : "Jonas Fernandez",
-  "role"            : "Penetration Tester & Security Researcher",
-  "certifications"  : "OSCP+ · eJPTv2",
-  "machines_pwned"  : "200+",
-  "pentest_reports" : "70+",
-  "cve_discovered"  : "1  (pending · INCIBE INC-2026-0152)",
-  "bug_bounty"      : "HackerOne · Bugcrowd",
-  "location"        : "Spain · EU · Remote",
-  "languages"       : "ES / EN / IT",
-  "status"          : "OPEN TO OPPORTUNITIES"
-}
-```
-
-</div>
-
----
-
 ### What I Do
 
 | | |
