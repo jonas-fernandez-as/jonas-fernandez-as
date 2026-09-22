@@ -9,7 +9,7 @@ I work hands-on with **Windows, Linux, networking, Active Directory, malware ana
 📍 Valencia, Spain · 🇪🇺 Open to relocation across the EU · 🌐 Remote
 
 [LinkedIn](https://linkedin.com/in/jonás-fernández-as) ·
-[Portfolio](https://jonas-fernandez-as.github.io) ·
+[Website](https://jonastrikex.com) ·
 [YouTube](https://youtube.com/@JonaStrikeX)
 
 ---
@@ -116,5 +116,5 @@ Remote · Starting September 2026
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/jonás-fernández-as) ·
-[Portfolio](https://jonas-fernandez-as.github.io) ·
+[Website](https://jonastrikex.com) ·
 [YouTube](https://youtube.com/@JonaStrikeX)
