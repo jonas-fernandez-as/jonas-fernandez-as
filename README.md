@@ -1,6 +1,6 @@
 # Jonas Fernandez
 
-### Cybersecurity Analyst | SOC / Blue Team | Detection Engineering
+### Cybersecurity Analyst 
 
 Security practitioner focused on **defensive security, threat detection and vulnerability research**, with a strong offensive-security background.
 
